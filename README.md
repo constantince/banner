@@ -6,10 +6,10 @@
 <h3>用法</h3>
 <h4>HTML结构</h4>
 <p>
-  div
-    ul class="ul-class-name"
-      li
-      li 
+div<br/>
+&nbsp;&nbsp;ul class="ul-class-name"<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;li<br/>
+      &nbsp;&nbsp;&nbsp;&nbsp;li<br/>
 </p>
 <h3>js语法</h3>
 <p>
